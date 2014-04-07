@@ -8,11 +8,11 @@ Configuração dos enlaces emulados - Softswitch13.
 => customsoftswitch13.py
 
 Regras de fluxo - Softswitch13.
-=> regrasSoftswitch13.sh
+=> regras com maior e menor caminho .sh
 
 Configuração dos enlaces emulados - OvS.
 => customOvS.py
 
 Regras de fluxo - OvS.
-=> regrasOvS.sh
+=> regras com maior e menor caminho .sh
 
